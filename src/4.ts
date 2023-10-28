@@ -48,6 +48,9 @@ house.OpenDoor(person.getKey());
 
 house.comeIn(person);
 
+
+
+
 export { };
 
 
